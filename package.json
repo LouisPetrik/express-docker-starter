@@ -1,0 +1,11 @@
+{
+  "name": "express-docker-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LouisPetrik/express-docker-starter.git",
+  "author": "Louis <33809479+LouisPetrik@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
